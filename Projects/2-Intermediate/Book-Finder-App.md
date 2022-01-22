@@ -24,3 +24,4 @@ You can use the [Google Books API](https://developers.google.com/books/docs/over
 
 [Book Finder](https://book-finder-by-deyl.netlify.com/)
 [Search Books](https://booksure.netlify.app/)
+[Book Finder (Vue JS & Nuxt JS)](https://book-finder.hasanproject.com/)
